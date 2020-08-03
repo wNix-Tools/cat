@@ -1,0 +1,15 @@
+{
+  "name": "cat",
+  "version": "1.0.0",
+  "description": "cat - concatenate files",
+  "main": "cat.js",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Ireland",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^15.4.1"
+  }
+}
